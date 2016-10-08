@@ -1,6 +1,5 @@
 package page
 
-import geb.AtVerificationResult
 import geb.Page
 import utils.ScreenshotUtil
 
