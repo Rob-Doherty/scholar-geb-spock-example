@@ -23,4 +23,4 @@ environments {
 
 // To run the tests with all browsers just run “./gradlew test”
 
-baseUrl = "https://www.universal-credit.service.gov.uk/"
+baseUrl = "https://github.com/"
